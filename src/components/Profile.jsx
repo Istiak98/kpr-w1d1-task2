@@ -10,7 +10,7 @@ const Profile = () => {
             <div class="card  h-100 p-3 rounded-3">
               <img
                 src={profilePic}
-                class="card-img-top w-50 h-50 mx-auto mt-3 rounded-circle image"
+                class="card-img-top w-50 h-50 mx-auto mt-3 rounded-circle"
                 alt="..."
               />
               <div class="card-body">
